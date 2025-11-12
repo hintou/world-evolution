@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header-title{
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.container-data-pattern{
+    padding: 5px 10px;
+    border: 1px solid rgb(201, 201, 206);
+    border-radius: 4px;
+}
+
+.container-data-pattern:hover{
+    background-color: rgb(237, 237, 245);
+}
